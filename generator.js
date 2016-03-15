@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var quoteSource = [{
-        quote: "Frank Lampard has still got the same legs he had five years ago",
+        quote: "Frank lampard has still got the same legs he had five years ago",
         name: "Ray Wilkins"
     }, {
         quote: "Sessegnon gets it on his left hand foot",
